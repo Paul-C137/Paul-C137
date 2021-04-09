@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paul-C137 (If you get the C-137 reference, we are already friends.)
+- 👋 Hi, I’m @Paul-C137 
 - 👀 I’m interested in network development and coding (Python and C++).
 - 🌱 I’m currently studying network automation with Python.
 
